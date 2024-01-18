@@ -1,0 +1,64 @@
+
+Név Tápnövény No Lárva Érintettség Érzékenység
+
+atalanta lepke
+csalán
+2
+VI-IX
+részleges
+közepes
+
+c-betűs lepke
+oligofág
+2
+V-IX
+részleges
+közepes
+
+kis rókalepke
+csalán
+2
+V-VIII
+részleges
+nem ismert
+
+nappali pávaszem
+csalán
+2
+V-IX
+részleges
+kifejezett
+
+ibolya gyöngyházlepke viola (szeder)
+1
+VII-VIII
+esetleges
+nem ismert
+
+lápi gyöngyházlepke
+szeder (egyéb)
+1
+VII-VIII
+részleges
+nem ismert
+
+nyugati törpebusalepke
+vérfű (szeder)
+1
+VI-VIII
+esetleges
+nem ismert
+
+zöldes gyöngyházlepke halálfejes lepke
+viola (szeder)
+2
+VII-IX
+esetleges
+nem ismert
+
+halálfejes gyöngyházlepke
+oligofág
+1
+VI-IX
+esetleges
+nem ismert
